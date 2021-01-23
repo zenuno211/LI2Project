@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Utilizador/Desktop/REVERSI/././Estado.h
+
+C:/Users/Utilizador/Desktop/REVERSI/./Data.h
+./Estado.h
+C:/Users/Utilizador/Desktop/REVERSI/././Estado.h
+
+C:/Users/Utilizador/Desktop/REVERSI/./Jogada.h
+./Data.h
+C:/Users/Utilizador/Desktop/REVERSI/././Data.h
+
+C:/Users/Utilizador/Desktop/REVERSI/./Posicao.h
+./Data.h
+C:/Users/Utilizador/Desktop/REVERSI/././Data.h
+
+C:/Users/Utilizador/Desktop/REVERSI/./SaveNLoad.h
+./Data.h
+C:/Users/Utilizador/Desktop/REVERSI/././Data.h
+
+C:/Users/Utilizador/Desktop/REVERSI/Game.c
+Game.h
+C:/Users/Utilizador/Desktop/REVERSI/Game.h
+./Posicao.h
+C:/Users/Utilizador/Desktop/REVERSI/./Posicao.h
+./SaveNLoad.h
+C:/Users/Utilizador/Desktop/REVERSI/./SaveNLoad.h
+./Jogada.h
+C:/Users/Utilizador/Desktop/REVERSI/./Jogada.h
+stdlib.h
+-
+stdio.h
+-
+Game.h
+C:/Users/Utilizador/Desktop/REVERSI/Game.h
+
+C:/Users/Utilizador/Desktop/REVERSI/Game.h
+./Data.h
+C:/Users/Utilizador/Desktop/REVERSI/./Data.h
+
